@@ -1,4 +1,8 @@
 ### Hi there 👋
+我是一名来自南开大学软件工程二学位的学生，之前的专业是经济学和法学
+同时也是一名前端爱好者
+QQ：2334855783
+欢迎交流！
 
 <!--
 **18630937603/18630937603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
