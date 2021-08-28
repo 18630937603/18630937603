@@ -6,8 +6,6 @@
 
 QQ：2334855783
 
-欢迎交流！
-
 <!--
 **18630937603/18630937603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
