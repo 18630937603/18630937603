@@ -5,6 +5,6 @@
 Too vegetable to sleep...
 
 - 🔭 I’m currently studying at Nankai University
-- 🌱 I’m currently learning Frontend,determined to be a frontend engineer on future
+- 🌱 I’m now a frontend engineer
 - 📫 How to reach me: 18630937603 is my phone number
 
